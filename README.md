@@ -1,5 +1,5 @@
-# ExcelEditor
-Edit multiple Excel files at once
+# Excel Cell Editor
+Edit multiple cells in several Excel files at once
 
 Select a Excel files containing folder. </br>
 Wait until all sheet names are loaded.</br>
